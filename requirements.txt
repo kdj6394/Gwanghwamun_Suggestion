@@ -53,7 +53,7 @@ smart-open==2.0.0
 soupsieve==2.0
 tqdm==4.45.0
 tweepy==3.8.0
-urllib3==1.25.9
+urllib3==1.26.5
 wincertstore==0.2
 wordcloud==1.7.0
 wrapt==1.12.1
